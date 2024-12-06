@@ -139,7 +139,7 @@ const Sale = () => {
       {/* Header */}
       <div className="flex items-center gap-4 mb-8">
         <div className="w-5 h-10 bg-[#DB4444] rounded" />
-        <h2 className="text-lg font-bold text-[#DB4444]">TODAY'S</h2>
+        <h2 className="text-lg font-bold text-[#DB4444]">TODAY&apos;S</h2>
       </div>
 
       {/* Sale Header */}

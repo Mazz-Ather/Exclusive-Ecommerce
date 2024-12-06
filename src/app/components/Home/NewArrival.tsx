@@ -47,7 +47,7 @@ const NewArrival = () => {
             <div className="flex-1">
               <Image
                 src="/men3.jpg"
-                alt="Men's Collection"
+                alt="Mens Collection"
                 fill
                 className="object-cover"
               />
@@ -55,8 +55,8 @@ const NewArrival = () => {
             <div className="p-4 mt-auto bg-black bg-opacity-90">
                 <div className='relative z-[999] p-5 text-white'>
 
-              <h3 className="text-3xl font-bold mb-2">Men's Collection</h3>
-              <p className="mb-2 text-base">Latest trends in men's fashion</p>
+              <h3 className="text-3xl font-bold mb-2">Men&apos;s Collection</h3>
+              <p className="mb-2 text-base">Latest trends in men&apos;s fashion</p>
               <Link href="/shop" className="text-white underline underline-offset-2 font-medium">
                 Shop Now
               </Link>
